@@ -1,9 +1,10 @@
-import React from 'react';
+import Header from "../Header";
 
-const Home = ({ onSelect }) => (
+const Home = () => (
+  <div><Header/>
   <div>
-    <button>Daily</button>
-    home
+<h2>kk</h2>
+  </div>
   </div>
 );
 

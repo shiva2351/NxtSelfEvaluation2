@@ -1,8 +1,7 @@
 
 
-const UpcomingRoute = ({ onSelect }) => (
+const UpcomingRoute = () => (
   <div>
-    <button>Daily</button>
     up
   </div>
 );

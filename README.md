@@ -1,23 +1,32 @@
 # selfElavaution2
 
+# About App
+
+* This app is OTT platform like Netflix,AmazonPrime,...
+* This app having some different pages (Home,TopRated,..)
+
 
 # Structure 
 
 >components
 
->>MainCard
+>>Home
 
 >>>index.css
 
 >>>index.js
 
->>ChartCard
+>>TopRated
 
 >>>index.css
 
 >>>index.js 
 
+>>UpcomingRoute
+
+>>>index.css
+
+>>>index.js 
 
 # Assets
 
-* Recharts
